@@ -1,15 +1,3 @@
----
-layout: coursepage
-permalink: /stat105/
-title: |
-   Welcome to STAT 105 
-   [comment]: <> (https://imouzon.github.io/stat105/)
-tags: [teaching]
-image:
-   feature: course_cover_image.jpg
-share: true
----
-
 # STAT 105: Introduction to Statistical Engineering 
 
 # Spring 2016, Section A
