@@ -25,7 +25,7 @@ class: center, middle, inverse
 ## Why Engineers Study Statistics
 ### Chapter 1: Introduction, Continued
 ### Chapter 2: Data Collection
-.footnote[Course page: [imouzon.github.io/stat105](https://imouzon.github.io/stat105)]
+.footnote[Course page: [nulloa.github.io/stat105](https://nulloa.github.io/stat105)]
 ---
 # Section 1.2
 ## Basic Terminology, Continued
@@ -201,12 +201,12 @@ layout:false
 
 <center>
    <h2> Factorial Studies Example </h2>
-   <img src="www/figs/two_chemists_trim.jpg" alt="dmc logo" height="125"> 
+   <img src="www/figs/tpb_group.jpg" alt="dmc logo" height="125"> 
 </center>
 
->  A pair of chemists, Walter and Jessie, are attempting to synthesize a chemical and consider purity to be the most important quality in the product. There are three environments available to them (Winnebago/Basement/Lab) and two precursors (pseudoephedrine/methylamine). They are both willing to take the role of "lead cook" and will try all their options in order to get the best results.
+>  A trio of farmers, Julian, Bubbles and Ricky, are attempting to grow a crop of plants and consider quantity to be the most important quality in the product. There are three environments available to them (Trailer/Hockey Rink/Field) and two water supplies (With/Without Nutrients). All three willing to take the role of "lead farmer" and will try all their options in order to get the best results.
 
--  What parts of the synthesis are being treated as variables?
+-  What parts of the farming are being treated as variables?
 
 -  What are the possible values for each of these variables?
 
@@ -215,11 +215,11 @@ layout:false
 
 ???
 
-lead cook - Walter, Jessie
-environment - winnebago, basement, lab
-precursor - pseudo, methylamine
+lead cook - Julian, Bubbles and Ricky
+environment - Trailer, Hockey Rink, Field
+precursor - With Nutrients, Without Nutrients
 
-2 x 3 x 2 = 12
+3 x 3 x 2 = 18
 
 WRITE OUT THE LEVELS AFTER SOME TIME FOR THEM TO WRITE THEM OUT
 ---
@@ -244,26 +244,32 @@ Here are all the possible combinations of the factors:
 
 $$
 \scriptsize{
-(\text{# of Cooks}) \cdot  
+(\text{# of Farmers}) \cdot  
 (\text{# of Environments}) \cdot  
-(\text{# of Precursors}) = 2 \cdot 3 \cdot 2  
+(\text{# of Water Types}) = 3 \cdot 3 \cdot 2  
 = 12}
 $$
 
 ```text
-         cook     environment    precursor
-         walter   winnebago      psuedoephedrine
-         walter   winnebago      methylamine
-         walter   basement       psuedoephedrine
-         walter   basement       methylamine
-         walter   lab            psuedoephedrine
-         walter   lab            methylamine
-         jessie   winnebago      psuedoephedrine
-         jessie   winnebago      methylamine
-         jessie   basement       psuedoephedrine
-         jessie   basement       methylamine
-         jessie   lab            psuedoephedrine
-         jessie   lab            methylamine
+         Farmer   Environment    Water
+         Ricky    Trailer        With Nutrients
+         Ricky    Trailer        Without Nutrients
+         Ricky    Hockey Rink    With Nutrients
+         Ricky    Hockey Rink    Without Nutrients
+         Ricky    Field          With Nutrients
+         Ricky    Field          Without Nutrients
+         Julian   Trailer        With Nutrients
+         Julian   Trailer        Without Nutrients
+         Julian   Hockey Rink    With Nutrients
+         Julian   Hockey Rink    Without Nutrients
+         Julian   Field          With Nutrients
+         Julian   Field          Without Nutrients
+         Bubbles  Trailer        With Nutrients
+         Bubbles  Trailer        Without Nutrients
+         Bubbles  Hockey Rink    With Nutrients
+         Bubbles  Hockey Rink    Without Nutrients
+         Bubbles  Field          With Nutrients
+         Bubbles  Field          Without Nutrients
 ```
 ]
 
