@@ -1,116 +1,110 @@
----
-layout: coursepage
-permalink: /stat105_F15/
-title: Welcome to Statistics 105
-tags: [teaching]
-image:
-feature: course_cover_image.jpg
-share: true
----
+# STAT 105: Introduction to Statistical Engineering 
 
-# Welcome to STAT 105
-
-Welcome to the course page for Fall 2015 STAT 105 section B.
-
-Grades and a few other important parts of the course will be run through [blackboard](https://bb.its.iastate.edu/), but most content can be better shared here (for instance, lecture demonstrations).
-
-## Announcements
-
-### Final Exam Study Materials
-
-### Exam 1
-
-The first [Practice Exam](./practice_exams/exam1A/stat105_F15_exam1B.pdf) and the [notesheet](./practice_exams/stat105_note_sheet_exam1.pdf)
-
-The first practice exam [solutions](./practice_exams/exam1A/stat105_F15_exam1B_soln.pdf)
-
-### Exam 2
-
-The second [Practice Exam](./practice_exams/exam2A/stat105_F15_exam2A.pdf) and the [notesheet](./practice_exams/stat105_note_sheet_exam2.pdf)
-
-[Solutions for Practice Exam](./practice_exams/exam2A/practice_solutions_stat105_F15_exam2.pdf)
-
-[Solutions for Exam II](./practice_exams/solutions_exam2.pdf)
+# Fall 2017, Section B
 
 ## Course Information
 
-   **Ian's Office Hours**
+**Basic Information**
 
-   -  Tuesday 9:30 - 10:30 am, Snedecor 3220
-   -  Wednesday 9:00 - 10:00 am, Snedecor 3220
-   -  Thursday 9:30 - 10:30 am, Snedecor 3220
+-  Meeting Time: Tuesday/Thursday 8:00 - 9:20 AM
+-  Meeting Location: LAGO W0272
+-  Instructor: Nehemias Ulloa/Gargi Mallik
+-  Course Assistant: Run Wang
 
-   *None of these work? E-mail me (imouzon@iastate.edu) and we can find a time that works for both of our schedules.*
+**Nehemias' Office Hours**
 
-   **Qianqian's Office Hours**
+-  Tuesday, Thursday 9:30 - 10:45 am, Snedecor Hall 1414
 
-   -  Monday 1:00 - 2:00 pm, Snedecor 2406
-   -  Wednesday 1:00 - 2:00 pm, Snedecor 2406
 
-   **Syllabus**
+*None of these work? E-mail me (nulloa1@iastate.edu) and we can find a time that works for both of our schedules.*
 
-   You can view or download the syllabus at this [link](./syllabus_stat105_F15.pdf).
+**Wang's Office Hours**
+
+-  Monday,Wednesday 10:30 - 11:30 am, Snedecor Hall
+
+**Syllabus**
+
+You can view or download the syllabus at this [link](Syllabus_105_F17.pdf).
+
 
 ## Course Materials
 
-### Lecture handouts
+### Practice Exams
 
--  [Lecture 1: 08-25](./lectures/lecture1/lecture1.html) (Covers sections 1.1 and 1.2)
+   **Exam I**
 
--  [Lecture 2: 08-27](./lectures/lecture2/lecture2.html) (Covers section 1.3, 1.4, 1.5, 2.1, 2.2)
+   -  [Exam I, Fall 2015](./practice_exams/stat105_F15_exam1_formB_print.pdf)
+   -  [note sheet](./practice_exams/stat105_note_sheet_exam1.pdf)
+   -  [solutions](./practice_exams/stat105_F15_exam1B_soln.pdf)
+   -  [solutions for alternate exam](./practice_exams/stat105_F15_exam1A_soln.pdf)
 
--  [Lecture 3: 09-01](./lectures/lecture3/lecture3.html) (Covers section 2.3 - 2.5)
+   **Exam II**
+   
+   -  [Exam II, Fall 2015](./practice_exams/exam2A/stat105_F15_exam2A.pdf)
+   -  [Solutions for Fall Exam](./practice_exams/exam2A/practice_solutions_stat105_F15_exam2.pdf)
+   -  [Note Sheet](./practice_exams/stat105_note_sheet_exam2_S16.pdf)
 
--  [Lecture 4: 09-03](./lectures/lecture4/lecture4.html) (Covers section 2.4 - 3.1)
 
--  [Lecture 5: 09-08](./lectures/lecture5/lecture5.html) (Covers section 3.1 - 3.2)
+   **Final Exam**
 
--  [Lecture 6: 09-10](./lectures/lecture6/lecture6.html) (Covers section 3.2 - 3.4)
+   -  [Final Exam, Fall 2015](./practice_exams/stat105_F15_exam3.pdf)
+   -  [Note Sheet](./practice_exams/final_note_sheet.pdf)
+   -  [Solutions](./practice_exams/final_soln.pdf)
 
--  [Lecture 7: 09-15](./lectures/lecture7/lecture7.html) (Covers section 4.1 - 4.2)
 
--  Lecture 8: 09-17 (Covers section 4.1 - 4.2, done on overhead/board)
+### Lecture Notes
 
--  Lecture 9: 09-22 (Covers section 4.1 - 4.2, done on overhead/board)
+-  [Lecture 1: 01-12](./lectures/lecture1/lecture1.html) (Introduction, covers sections 1.1 and 1.2)
+   -  The description of chaos theory in Jurassic Park [link](https://www.youtube.com/watch?v=5cVLUPwrSmU)
+   -  The double pendulum symphony [link](https://www.youtube.com/watch?v=MtJLhb9yaPc)
+   -  Correlation and causation: [third causes](https://en.wikipedia.org/wiki/Third-cause_fallacy) and [wrong directions](https://en.wikipedia.org/wiki/Wrong_direction)
 
--  Lecture 10: 09-24 (Covers section 4.1 - 4.2, done on overhead/board)
+-  [Lecture 2: 01-14](./lectures/lecture2/lecture2.html) (Introduction, covers sections 1.1 and 1.2)
+
+-  [Lecture 3: 01-19](./lectures/lecture3/lecture3.html) (Data collection, covers 2.1, 2.2)
+
+-  [Lecture 4: 01-21](./lectures/lecture4/lecture4.html) (Finishing Ch.2, starting Ch.3)
+
+-  [Lecture 5: 01-26](./lectures/lecture5/lecture5.html) (Continuing Ch.3)
+
+-  [Lecture 6: 01-28](./lectures/lecture6/lecture6.html) (Continuing Ch.3)
+
+-  [Lecture 7: 02-02](./lectures/lecture7/lecture7.html) (Finishing Ch. 3, Ch. 4)
+
+-  [Lecture 8: 02-04](./lectures/lecture8/lecture8.html) (Continuing Ch. 4, Using JMP)
+
+-  [Lecture 9: 02-09](./lectures/lecture9/lecture9.html) (Continuing Ch. 4)
+
+-  Lecture 10: 02-11 (Ch. 4.1 up through but not including 4.2.2, notes written on overhead, JMP demonstration)
+
+-  Lecture 11: 02-16 (Finishing 4.2, beginning 4.3)
+
+-  [Lecture 12: 02-23](./lectures/lecture12/lecture12.html) (Continuing Ch. 4)
 
 ### Homework Assignments
 
--  [Homework 1](./hw/hw1/stat105_hw1.pdf) (Due Thursday, Sept. 3 at the start of class. Covers sections 1.1 - 2.2)
+-  [Homework 1](./hw/hw1/stat105_hw1.pdf) (Due Friday January 22 at 5:00, covers sections 1.1 and 1.2)
 
--  [Solutions for Homework 1](./hw/hw1/stat105_hw1_soln.pdf) 
+-  [Solutions](./hw/hw1/stat105_hw1_soln.pdf)
 
--  [Homework 2](./hw/hw2/stat105_hw2.pdf) (Due Thursday, Sept. 10 at the start of class. Covers all of Chapter 2)
+-  [Homework 2](./hw/hw2/stat105_hw2.pdf) (Due Friday January 29 at 5:00, covers chapter 2)
 
--  [Homework 3](./hw/hw3/stat105_hw3.pdf) (Due Thursday, Sept. 17 at the start of class. Covers all of Chapter 3)
+-  [Homework 3](./hw/hw3/stat105_hw3.pdf) (Due Thursday February 11 at 9:30 (the start of class))
 
--  [Solutions for Homework 3](./hw/hw3/stat105_hw3_soln.pdf) 
+   -  [tools.jmp](./hw/hw3/tools.jmp)
 
--  [Homework 4](./hw/hw4/stat105_hw4.pdf) (Due Thursday, Sept. 24 at the start of class. Covers sections 4.1 - 4.2)
+-  [Homework 4](./hw/hw4/stat105_hw4.pdf) (Due Thursday February 25 at 9:30 (the start of class))
 
--  [tools.jmp](./hw/hw4/tools.jmp)
+-  [Homework 5](./hw/hw5/stat105_hw5.pdf) (Due Thursday March 10 at 9:30 (the start of class))
 
--  [Homework 5](./hw/hw5/stat105_hw5.pdf) (Due Thursday, Oct. 8 at the start of class. Covers section 4.3)
+-  [Homework 6](./hw/hw6/stat105_hw6.pdf) (Due Tuesday March 29 at 9:30 (the start of class))
 
--  [Solutions for Homework 5](./hw/hw5/solutions_hw5.pdf) 
+-  [Exam Recovery](./hw/exam_recovery/exam_recovery.pdf) (Due Tuesday April 19 at 9:30 (the start of class))
 
--  [Homework 6](./hw/hw6/stat105_hw6.pdf) (Due Thursday, Oct. 22 at the start of class. Covers section 5.1, 5.2)
+-  [Homework 7](./hw/hw7/stat105_hw7.pdf) (Due Tuesday April 19 at 9:30 (the start of class))
 
--  [Solutions for Homework 6](./hw/hw6/solutions_hw6.pdf) 
+-  [Homework 8 (Bonus Homework)](./hw/hw8/stat105_hw8.pdf) (Due Tuesday May 3rd at 9:45 (before the final)
 
--  [Homework 7](./hw/hw7/stat105_hw7.pdf) (Due Thursday, Oct. 29 at the start of class. Covers section 5.1, 5.2)
+### Tools
 
--  [Solutions for Homework 7](./hw/hw7/solutions_hw7.pdf) 
-
--  [Homework 8](./hw/hw8/stat105_hw8.pdf) (Due Friday, Nov. 20 at 5:00 pm. Covers all of Chapter 5)
-
--  [Solutions for Homework 8](./hw/hw8/solutions_hw8.pdf) 
-
--  [Homework 9](./hw/hw9/stat105_hw9.pdf) (Due Thursday, Dec. 3 at the start of class. Covers confidence intervals and related topics.)
-
--  [Solutions for Homework 9](./hw/hw9/solutions_hw9.pdf) 
-
-   -  [Bonus Homework 10](./hw/hw10/stat105_hw10.pdf) (Due Tuesday, Dec. 15 at 7:30 AM before the final).
-
-
+   Interactive tools and helpful links will be posted here.
