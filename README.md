@@ -37,7 +37,7 @@ You can view or download the syllabus at this [link](stat105/Syllabus_105_F17.pd
    -  The double pendulum symphony [link](https://www.youtube.com/watch?v=MtJLhb9yaPc)
    -  Correlation and causation: [third causes](https://en.wikipedia.org/wiki/Third-cause_fallacy) and [wrong directions](https://en.wikipedia.org/wiki/Wrong_direction)
 
--  [Lecture 2: 01-14](http://htmlpreview.github.io/?https://nulloa.github.io/stat105/stat105/lectures/lecture2/lecture2.html) (Introduction, covers sections 1.1 and 1.2)
+-  [Lecture 2: 01-14](https://nulloa.github.io/stat105/stat105/lectures/lecture2/lecture2.html) (Introduction, covers sections 1.1 and 1.2)
 
 -  [Lecture 3: 01-19](http://htmlpreview.github.io/?https://nulloa.github.io/stat105/stat105/lectures/lecture3/lecture3.html) (Data collection, covers 2.1, 2.2)
 
