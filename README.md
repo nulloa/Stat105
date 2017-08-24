@@ -42,6 +42,7 @@ You can view or download the syllabus at this [link](stat105/Syllabus_105_F17.pd
 -  [Lecture 3: 01-19](http://htmlpreview.github.io/?https://nulloa.github.io/stat105/stat105/lectures/lecture3/lecture3.html) (Data collection, covers 2.1, 2.2)
 
 -  [Lecture 4: 01-21](http://htmlpreview.github.io/?https://nulloa.github.io/stat105/stat105/lectures/lecture4/lecture4.html) (Finishing Ch.2, starting Ch.3)
+   -  [Link](http://htmlpreview.github.io/?https://nulloa.github.io/stat105/stat105/Stat105Lecture4Supplement.html) to supplemental material
 
 -  [Lecture 5: 01-26](http://htmlpreview.github.io/?https://nulloa.github.io/stat105/stat105/lectures/lecture5/lecture5.html) (Continuing Ch.3)
 
